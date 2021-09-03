@@ -30,6 +30,6 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.11.2",
-    "@tarojs/runtime": "3.3.2"
+    "@tarojs/runtime": "3.3.3"
   }
 }
