@@ -24,7 +24,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@tarojs/shared": "3.3.2",
+    "@tarojs/shared": "3.3.3",
     "inversify": "5.1.1",
     "lodash-es": "4.17.15",
     "reflect-metadata": "^0.1.13"
