@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@tarojs/components": "3.3.2",
-    "@tarojs/service": "3.3.2",
+    "@tarojs/service": "3.3.3",
     "@tarojs/shared": "3.3.2"
   }
 }
