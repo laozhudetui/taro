@@ -26,7 +26,7 @@
   "author": "O2Team",
   "license": "MIT",
   "dependencies": {
-    "@tarojs/api": "3.3.2",
+    "@tarojs/api": "3.3.3",
     "@tarojs/runtime": "3.3.2",
     "@tarojs/taro-h5": "3.3.2"
   }
