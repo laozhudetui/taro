@@ -35,7 +35,7 @@
   "dependencies": {
     "@hapi/joi": "17.1.1",
     "@tarojs/helper": "3.3.2",
-    "@tarojs/shared": "3.3.2",
+    "@tarojs/shared": "3.3.3",
     "@tarojs/taro": "3.3.2",
     "fs-extra": "8.1.0",
     "lodash": "4.17.21",
