@@ -87,7 +87,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "fbjs": "^1.0.0",
     "fs-extra": "^5.0.0",
-    "generic-names": "^2.0.1",
+    "generic-names": "^3.0.0",
     "glob": "^7.1.2",
     "inquirer": "^5.2.0",
     "klaw": "^2.1.1",
