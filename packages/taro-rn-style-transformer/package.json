@@ -35,7 +35,7 @@
     "stylelint": "^13.8.0",
     "stylelint-config-taro-rn": "3.3.2",
     "stylelint-taro-rn": "3.3.2",
-    "stylus": "^0.54.8",
+    "stylus": "^0.56.0",
     "taro-css-to-react-native": "3.3.2"
   },
   "devDependencies": {
