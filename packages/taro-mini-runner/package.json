@@ -56,7 +56,7 @@
     "file-loader": "^6.0.0",
     "fs-extra": "^8.0.1",
     "html-minifier": "^4.0.0",
-    "jsdom": "^15.2.1",
+    "jsdom": "^16.6.0",
     "less": "^4.1.0",
     "less-loader": "7.3.0",
     "loader-utils": "^1.2.3",
@@ -86,7 +86,7 @@
     "terser-webpack-plugin": "^3.0.5",
     "url-loader": "^4.1.0",
     "vm2": "^3.8.4",
-    "webpack": "4.46.0",
+    "webpack": "5.0.0",
     "webpack-chain": "4.9.0",
     "webpack-format-messages": "^2.0.5",
     "yauzl": "2.10.0"
