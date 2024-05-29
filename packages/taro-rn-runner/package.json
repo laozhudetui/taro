@@ -30,7 +30,7 @@
     "npm": ">=6.0.0"
   },
   "dependencies": {
-    "@react-native-community/cli": "^5.0.1",
+    "@react-native-community/cli": "^10.0.0",
     "@react-native-community/cli-server-api": "^5.0.1",
     "@tarojs/helper": "3.3.2",
     "@tarojs/rn-style-transformer": "3.3.2",
