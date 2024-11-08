@@ -26,7 +26,7 @@
     "url": "https://github.com/NervJS/taro/issues"
   },
   "dependencies": {
-    "@tarojs/plugin-platform-weapp": "3.3.2",
+    "@tarojs/plugin-platform-weapp": "4.0.0",
     "@tarojs/service": "3.3.2",
     "@tarojs/shared": "3.3.2"
   }
