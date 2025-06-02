@@ -31,7 +31,7 @@
     "@tarojs/service": "3.3.2"
   },
   "dependencies": {
-    "@tarojs/helper": "3.3.2",
+    "@tarojs/helper": "3.4.0",
     "@tarojs/shared": "3.3.2",
     "@tarojs/taro": "3.3.2",
     "@vue/devtools": "6.0.0-beta.15",
